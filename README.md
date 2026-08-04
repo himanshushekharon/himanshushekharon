@@ -57,42 +57,6 @@ Building scalable web applications with modern technologies while solving real-w
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚗 ParkEase
-Real-time parking management ecosystem with secure authentication, live booking, payment gateway integration and role-based dashboards.
-
-**Tech Stack**
-
-Laravel • MongoDB • Clerk • Razorpay • Bootstrap
-
-🔗 Repository:
-https://github.com/himanshushekharon/ParkEase
-
----
-
-### 🎧 Echo
-
-AI-powered Helpdesk Call Sentiment Analysis platform.
-
-Features:
-- Speech Processing
-- Sentiment Detection
-- Live Analytics Dashboard
-- JWT Authentication
-
-Tech:
-
-React • Node.js • Express • MongoDB • Hugging Face API
-
----
-
-### 💽 Disk Scheduling Simulator
-
-Visualization of FCFS, SSTF, SCAN and C-SCAN algorithms with graphical comparison.
-
----
-
 ## 📈 Coding Profiles
 
 <p align="left">
